@@ -1,0 +1,4 @@
+%{
+  "dhcp_server": {:hex, :dhcp_server, "0.7.0", "6ac0267df1591968abd10a1582fd1f4481b4567f33a60fd159f7de6e93f91e52", [:make, :mix], [{:elixir_make, "~> 0.5", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "e2ffe7344356de63a0a6b1ad6b3e4959a8d7cc06d66a534eca9c2473bc9dc25f"},
+  "elixir_make": {:hex, :elixir_make, "0.6.1", "8faa29a5597faba999aeeb72bbb9c91694ef8068f0131192fb199f98d32994ef", [:mix], [], "hexpm", "35d33270680f8d839a4003c3e9f43afb595310a592405a00afc12de4c7f55a18"},
+}
